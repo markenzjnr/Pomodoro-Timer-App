@@ -1,0 +1,7 @@
+C:\Users\42-DAWG\Desktop\C#\Pomodoro Timer App\Pomodoro Timer App\bin\Debug\Pomodoro Timer App.exe.config
+C:\Users\42-DAWG\Desktop\C#\Pomodoro Timer App\Pomodoro Timer App\bin\Debug\Pomodoro Timer App.exe
+C:\Users\42-DAWG\Desktop\C#\Pomodoro Timer App\Pomodoro Timer App\bin\Debug\Pomodoro Timer App.pdb
+C:\Users\42-DAWG\Desktop\C#\Pomodoro Timer App\Pomodoro Timer App\obj\Debug\Pomodoro Timer App.csproj.AssemblyReference.cache
+C:\Users\42-DAWG\Desktop\C#\Pomodoro Timer App\Pomodoro Timer App\obj\Debug\Pomodoro Timer App.csproj.CoreCompileInputs.cache
+C:\Users\42-DAWG\Desktop\C#\Pomodoro Timer App\Pomodoro Timer App\obj\Debug\Pomodoro Timer App.exe
+C:\Users\42-DAWG\Desktop\C#\Pomodoro Timer App\Pomodoro Timer App\obj\Debug\Pomodoro Timer App.pdb
